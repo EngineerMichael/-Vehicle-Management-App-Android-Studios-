@@ -1,7 +1,5 @@
 # -Vehicle-Management-App-Android-Studios-
 Android Application
-# -Vehicle-Management-App-Android-Studios-
-Android Application
 
 Creating a basic Vehicle Management app using Kotlin for Android involves several components like user interface, database management, and handling user inputs. Below is a simple guide and code structure to help you build a basic vehicle management app.
 
