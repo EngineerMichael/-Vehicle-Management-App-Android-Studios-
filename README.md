@@ -7,6 +7,8 @@ Creating a basic Vehicle Management app using Kotlin for Android involves severa
 //1. Project Setup	
 •	Create a new project: Open Android Studio and create a new project with an “Empty Activity” template.	
 •	Select Kotlin as the programming language.
+
+
 //2. Add Dependencies
 Ensure that you have the necessary dependencies for RecyclerView and Room (SQLite database) in your build.gradle file.
 dependencies {    
