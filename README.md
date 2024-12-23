@@ -368,6 +368,8 @@ object VehicleDatabase {
 
 }
 
+GNU General Public License v3.0 
+
 
 //11. Running the App	•	Running the app will display a list of vehicles. You can add vehicles by clicking the “Add Vehicle” button.	•	You can modify the addVehicle function to accept inputs (like name, registration number) from a form or another interface.
 This is a simple foundation for a vehicle management app. You can extend it with additional features like vehicle detail views, update functionality, or filtering based on various criteria.
